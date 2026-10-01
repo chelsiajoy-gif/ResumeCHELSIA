@@ -2,6 +2,8 @@
 
 A horizontal, responsive resume page built with HTML, CSS, JavaScript, and p5.js. It includes color themes, an interactive experience timeline, role filters, and expandable job details. No build step or package installation is required.
 
+Chelsia Joy is currently a researcher in the Finance stream at Vellore Institute of Technology (VIT), under the guidance of Dr. Dunstan A. Rajkumar.
+
 ## Deploy with Netlify
 
 Import this repository (`chelsiajoy-gif/ResumeCHELSIA`) into Netlify and use:
